@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "id": "rubymax",
+      "title": "루비맥스",
+      "documents": [
+        {"path": "rubymax-r03.html", "title": "수정 기획안 r03 · 최신"},
+        {"path": "review-r03.html", "title": "r03 점검 · 76점과 보강 과제"},
+        {"path": "research-r03.html", "title": "추가 조사 r03 · 친밀감과 대안"},
+        {"path": "research-r02.html", "title": "심화 조사 r02 · 고객의 선택"},
+        {"path": "competitors-r02.html", "title": "경쟁 조사 r02 · 판매력과 실제 상세"},
+        {"path": "rubymax-v3.html", "title": "이전 기획안 v3"},
+        {"path": "voices-v3.html", "title": "v3 조사 · 채널별 고객의 목소리"},
+        {"path": "rubymax-r01.html", "title": "첫 기획안 r01"},
+        {"path": "products-r01.html", "title": "두 제품 첫 작성·평가 · 루비맥스 88점"}
+      ]
+    },
+    {
+      "id": "heliomax",
+      "title": "헬리오맥스",
+      "documents": [
+        {"path": "heliomax-r01.html", "title": "첫 기획안 r01"},
+        {"path": "products-r01.html", "title": "두 제품 첫 작성·평가 · 헬리오맥스 86점"}
+      ]
+    },
+    {
+      "id": "common",
+      "title": "양식·공통",
+      "documents": [
+        {"path": "form-v3-1.html", "title": "기획안 양식 v3.1 · 최신"},
+        {"path": "form-v3.html", "title": "이전 양식 v3"},
+        {"path": "index.html", "title": "이전 양식 v2"},
+        {"path": "form-v1.html", "title": "처음 만든 양식 v0.1"}
+      ]
+    },
+    {
+      "id": "references",
+      "title": "참고사례",
+      "documents": [
+        {"path": "case-study.html", "title": "텐토렉실 · 기획 역설계 사례"},
+        {"path": "reference-context.html", "title": "문해일·슬리모아 · 개념과 표현 참고"}
+      ]
+    }
+  ]
+}
